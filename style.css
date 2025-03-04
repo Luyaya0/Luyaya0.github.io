@@ -1,7 +1,19 @@
+/* 全局字体设置 */
 body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-  }
-  h1 {
-    color: #177a4096;
-  }
+  font-family: Tahoma, sans-serif;
+}
+
+/* 标题样式调整 */
+h1 {
+  font-family: 'Georgia', serif;
+  font-size: 36px;
+  font-weight: bold;
+  color: #24cc78;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* 其他标题优化 */
+h2, h3, h4, h5, h6 {
+  font-family: 'Georgia', serif;
+  color: #444;
+}
